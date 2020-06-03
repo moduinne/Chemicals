@@ -11,5 +11,4 @@ export class ChemListComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }
